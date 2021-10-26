@@ -29,7 +29,3 @@ Content-Type: application/json
 
 # @name removeCategory
 DELETE {{baseUrl}}/categories/2
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Securit

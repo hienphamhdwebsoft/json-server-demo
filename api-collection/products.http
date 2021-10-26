@@ -38,7 +38,7 @@ Content-Type: application/json
   "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
   "name": "Tasty Plastic Chips",
   "color": "cyan",
-  "price": 932,
+  "price": 931,
   "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
   "thumbnailUrl": "http://placeimg.com/400/400"
 }
@@ -52,7 +52,7 @@ Content-Type: application/json
 {
   "name": "Tasty Plastic Chips Update",
   "color": "red",
-  "price": 955
+  "price": 950
 }
 
 ###
