@@ -14,9 +14,7 @@
   ],
   "author": "Hien Pham",
   "license": "MIT",
-  "devDependencies": {
-    "json-server": "^0.17.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "faker": "^5.5.3",
     "query-string": "^7.0.1"
